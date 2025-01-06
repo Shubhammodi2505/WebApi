@@ -1,0 +1,6 @@
+@WebApiDemo_HostAddress = http://localhost:5257
+
+GET {{WebApiDemo_HostAddress}}/Student/
+Accept: application/json
+
+###
